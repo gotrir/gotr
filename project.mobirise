@@ -28,7 +28,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -45,8 +45,8 @@
             "overlayOpacity": "0.5"
           },
           "title": "تُورکییِیَ هُش گَلدینیز",
-          "text": "به ترکیه خوش آمدید",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+          "text": "به ترکیه خوش آمدید<br>Welcome to Turkey",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GOTR.ir</a>",
           "_tags": [
             "Theme"
           ],
